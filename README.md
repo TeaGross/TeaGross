@@ -1,6 +1,6 @@
 # 👋 Hej!
 
-Jag heter Tea och är ganska ny i kodvärlden men jag älskar en utmaning och att lära mig nya saker! 🚀 Jag pluggar till front end developer på Medieinstituet och håller just nu på att lära mig **React**.
+Jag heter Tea och jag pluggar till front end developer på Medieinstituet. Jag håller just nu på att lära mig **React** och jag älskar en utmaning och att lära mig nya saker! 
 
 Tillgänglighet är något jag vill lära mig mer om. Jag vill vara med och skapa en webb som är **inkluderande**, **öppen** och **tillgänglig för alla** oavsett förutsättningar. ♿🌍
 
