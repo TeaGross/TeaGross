@@ -9,9 +9,6 @@ Tillgänglighet är något jag vill lära mig mer om. Jag vill vara med och skap
 - 🤝 Har upptäckt att jag lär mig otroligt mycket genom **parkodning**
 - 🎯 Gillar att lösa problem och lista ut hur saker fungerar
 
-## 📣 Letar LIA-plats!
-Jag söker LIA inför hösten 2025 inom webbutveckling.
-Hör gärna av dig om du jobbar på ett företag som letar efter en nyfiken och engagerad junior! 🙌
 
 ## 🌐 Hitta mig
 - 📧 **tea.grossman@gmail.com**
